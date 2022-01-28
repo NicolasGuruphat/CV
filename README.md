@@ -1,5 +1,5 @@
 # CV  
-
+En cours de construction ...
 ## Cométences informatiques 
 | Nom      | Niveau                |  Projet(s)        |  
 |----------|:---------------------:|------------------:|  
