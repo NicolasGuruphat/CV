@@ -3,8 +3,8 @@
 En cours de construction ...
 
 ## Objectifs actuels
-✔️ Trouver un stage, de préférence dans le développement web ou logiciel
-✔️ Valider mon DUT informatique puis rejoindre une école d'ingénieur en alternance
+* ✔️ Trouver un stage, de préférence dans le développement web ou logiciel
+* ✔️ Valider mon DUT informatique puis rejoindre une école d'ingénieur en alternance
 * Valider mon diplôme d'ingénieur en alternance
 * Construire des compétences solides en développement web
 
